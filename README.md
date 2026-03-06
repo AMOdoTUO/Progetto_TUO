@@ -19,7 +19,7 @@ Il nome **Ovunque** riflette la versatilità d'installazione: dalla scrivania de
 
 ---
 
-## AMOdoTUO.
+## AMOdoTUO
 Il progetto è stato ideato, sviluppato e assemblato da:
 * **Alberto Pozzali**
 * **Matteo Pelizzari**
